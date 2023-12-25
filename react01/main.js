@@ -1,3 +1,8 @@
+
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+});
+
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 
 // const content = (

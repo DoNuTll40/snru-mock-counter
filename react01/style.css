@@ -18,9 +18,13 @@ body {
     gap: 1rem;
     align-items: center;
 }
+
+h2 {
+    width: 90px;
+}
   
 .counter {
-    width: 400px;
+    width: 500px;
     height: 100px;
     display: flex;
     text-align: center;
@@ -63,8 +67,6 @@ body {
     border: 3px solid deeppink;
     border-radius: 30px;
     margin: 5px;
-    margin-top: 20px;
-    margin-bottom: 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     text-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
 }

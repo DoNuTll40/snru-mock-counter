@@ -18,6 +18,7 @@ function Counter() {
             <h2>{0}</h2>
             <button className="btn">-</button>
             <button className="btn">C</button>
+            <button className="btn">X</button>
         </div>
     )
 }

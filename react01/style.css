@@ -6,7 +6,7 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Itim', sans-serif;
-    font-size: ;
+    user-select: none;
 }
 
 body {
